@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+chromadb
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+pandas
+transformers
+huggingface_hub
