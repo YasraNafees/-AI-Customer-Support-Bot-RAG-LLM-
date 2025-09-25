@@ -34,5 +34,5 @@ It helps analyze customer support tickets, answer queries, and automate response
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/customer-support-bot.git
+   git clone https://github.com/YasraNafees/customer-support-bot.git
    cd customer-support-bot
